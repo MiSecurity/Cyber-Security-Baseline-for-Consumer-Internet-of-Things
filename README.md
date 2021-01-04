@@ -14,4 +14,4 @@
 
 &emsp;&emsp;在AIoT设备数量持续高速增长、手机与设备间互联互通场景日益丰富的今天，新的安全与隐私风险也必将与日俱增。小米AIoT安全实验室将持续把物联网产品安全放在首位，坚持使用技术与管理并重的策略，深入探索并践行安全基线要求，把安全保护能力作为设备不可或缺的固有属性。并且，小米AIoT安全实验室将持续更新本基线，把实践中积累的安全技术整理纳入其中，希望可以通过此基线帮助消费物联网行业提升安全防护水平，共同在安全领域成长进步。
 
-点击链接下载：[《消费级物联网终端安全基线》](https://github.com/XiaomiSec/Cyber-Security-Baseline-for-Consumer-Internet-of-Things-Device/blob/main/resources/pdf/%E6%B6%88%E8%B4%B9%E7%BA%A7%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF.pdf)
+点击链接下载：[《消费级物联网终端安全基线》](https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things/blob/main/resources/pdf/%E6%B6%88%E8%B4%B9%E7%BA%A7%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF.pdf)
